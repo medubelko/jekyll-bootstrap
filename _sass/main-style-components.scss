@@ -1,0 +1,13 @@
+/* Main style variables and variable overrides */
+@import "main-style-variables";
+
+/* Main style classes */
+@import "main-style-classes";
+
+/* Bootstrap 4.1.2 */
+@import "bootstrap-4.1.2/bootstrap";
+
+/* Sass fonts */
+@import "font-awesome-5.2.0/fontawesome";
+@import "font-awesome-5.2.0/solid";
+@import "font-awesome-5.2.0/brands";
